@@ -22,6 +22,7 @@ class LingottoFiere:
         """Carica i dati (stand ed espositori) dal file"""
         # TODO
         with open(file_path) as file:
+            reader
             for line in file:
 
 
